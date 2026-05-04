@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+apscheduler
+httpx
+python-dotenv
+firebase-admin
+africastalking
+xgboost
+scikit-learn
+pandas
+python-multipart
+websockets
+python-socketio

@@ -1,0 +1,14 @@
+node_modules/
+.env
+__pycache__/
+*.db
+*.sqlite
+*.sqlite3
+venv/
+env/
+.venv/
+dist/
+build/
+*.json
+!package.json
+!manifest.json
